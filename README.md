@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib
 ## Usage
 Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/vishesh-kumar-singh/KNN-Algorithm.git
 ```
 ```bash
 cd knn-quadrant-classifier
@@ -44,7 +44,7 @@ cd knn-quadrant-classifier
 ## Run the script:
 
 ```bash
-python main.py
+python K-NN.py
 ```
 
 ## Predict the quadrant for a custom point:
